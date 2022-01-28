@@ -3,11 +3,11 @@
 In this project I analize data from all World Cups from 1930 until 2014. The dataset used "WorldCupMatches.csv" contains a list of all matches played in all those world cups. With this dataset I've tried to asnwer the following questions:
 
 PROBLEM 1
-• Winner, Runners-up, Third and Fourth ranked team of the World Cup
-• Total goals scored at the World Cup
-• Number of qualified teams for the World Cup
-• Number of matches played during the World Cup
-• Total attendance of the World Cup
+* Winner, Runners-up, Third and Fourth ranked team of the World Cup
+* Total goals scored at the World Cup
+* Number of qualified teams for the World Cup
+* Number of matches played during the World Cup
+* Total attendance of the World Cup
 
 
 PROBLEM 2
